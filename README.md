@@ -4,5 +4,5 @@
 
 效果图:
 ![文档1](https://github.com/liangchaos/testframe/blob/master/enterprise-system-testframe/src/test/resources/TTEXT2020-01-07_165800029__1.jpg)
-![文档1](https://github.com/liangchaos/testframe/blob/master/enterprise-system-testframe/src/test/resources/TTEXT2020-01-07_165800029__2.jpg)
-![文档1](https://github.com/liangchaos/testframe/blob/master/enterprise-system-testframe/src/test/resources/TTEXT2020-01-07_165800029__3.jpg)
+![文档2](https://github.com/liangchaos/testframe/blob/master/enterprise-system-testframe/src/test/resources/TTEXT2020-01-07_165800029__2.jpg)
+![文档3](https://github.com/liangchaos/testframe/blob/master/enterprise-system-testframe/src/test/resources/TTEXT2020-01-07_165800029__3.jpg)
